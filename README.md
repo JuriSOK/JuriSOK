@@ -1,23 +1,12 @@
-- 👋 Hi, I’m Arnaud
-- 👀 I’m interested in Cybersecurity & IA !!
-- 🌱 I’m currently learning CS at Paris-Cité university in France
+```python
+from JuriSOK import info
 
-### Skills Progress
+Name = "Arnaud"
+Education = "Étudiant en informatique à l'université Paris-Cité"
+Diplomas = "Diplôme en cours : Licence en informatique"
+Roles = ["Étudiant"]
+Interests = ["Cybersécurité", "Intelligence Artificielle"]
+Skills = ["Python", "C", "Rust", "Bash", "JavaScript (React)", "C++"]
 
-#### Python
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
-
-#### C
-![C](https://img.shields.io/badge/C-85%25-brightgreen)
-
-#### Rust
-![Rust](https://img.shields.io/badge/Rust-75%25-yellow)
-
-#### Bash
-![Bash](https://img.shields.io/badge/Bash-80%25-brightgreen)
-
-#### JavaScript (learning with React)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
-
-#### C++
-![C++](https://img.shields.io/badge/C++-60%25-yellow)
+print(info.secret())
+# Secret: J'utilise Arch Linux
