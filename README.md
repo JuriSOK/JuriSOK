@@ -7,8 +7,5 @@ int main() {
     printf("Diplôme en cours: Licence Informatique et Applications\n");
     printf("Rôles: Étudiant\n");
     printf("Intérêts: Cybersécurité, Intelligence Artificielle\n");
-    printf("Compétences: Python, C, Rust, Bash\n");
-    printf("J'apprends actuellement: JavaScript (React), C++\n");
-
     return 0;
 }
