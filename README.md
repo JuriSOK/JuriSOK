@@ -1,12 +1,14 @@
-```python
-from JuriSOK import info
+```c
+#include <stdio.h>
 
-Name = "Arnaud"
-Education = "Étudiant en informatique à l'université Paris-Cité"
-Diplomas = "Diplôme en cours : Licence en informatique"
-Roles = ["Étudiant"]
-Interests = ["Cybersécurité", "Intelligence Artificielle"]
-Skills = ["Python", "C", "Rust", "Bash", "JavaScript (React)", "C++"]
+int main() {
+    printf("Nom: Arnaud\n");
+    printf("Étudiant en informatique à l'université Paris-Cité\n");
+    printf("Diplôme en cours: Licence Informatique et Applications\n");
+    printf("Rôles: Étudiant\n");
+    printf("Intérêts: Cybersécurité, Intelligence Artificielle\n");
+    printf("Compétences: Python, C, Rust, Bash\n");
+    printf("J'apprends actuellement: JavaScript (React), C++\n");
 
-print(info.secret())
-# Secret: J'utilise Arch Linux
+    return 0;
+}
