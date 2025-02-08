@@ -5,19 +5,19 @@
 ### Skills Progress
 
 #### Python
-![Python](https://progress-bar.dev/90/?title=Python)
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
 
 #### C
-![C](https://progress-bar.dev/85/?title=C)
+![C](https://img.shields.io/badge/C-85%25-brightgreen)
 
 #### Rust
-![Rust](https://progress-bar.dev/75/?title=Rust)
+![Rust](https://img.shields.io/badge/Rust-75%25-yellow)
 
 #### Bash
-![Bash](https://progress-bar.dev/80/?title=Bash)
+![Bash](https://img.shields.io/badge/Bash-80%25-brightgreen)
 
 #### JavaScript (learning with React)
-![JavaScript](https://progress-bar.dev/50/?title=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
 
 #### C++
-![C++](https://progress-bar.dev/60/?title=C++)
+![C++](https://img.shields.io/badge/C++-60%25-yellow)
