@@ -15,9 +15,6 @@ int main() {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuriSOK&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### TryHackMe Badge
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2714381" style='border:none; width:300px; height:150px;'></iframe>
 
 ###
 
