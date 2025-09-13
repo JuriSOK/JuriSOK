@@ -3,10 +3,10 @@
 
 int main() {
     printf("Nom: Arnaud\n");
-    printf("Étudiant en informatique à l'université Paris-Cité\n");
-    printf("Diplôme en cours: Licence Informatique et Applications\n");
+    printf("Étudiant en informatique à l'université Paris Dauphine-PSL\n");
+    printf("Diplôme en cours: Master MIAGE\n");
     printf("Rôles: Étudiant\n");
-    printf("Intérêts: Cybersécurité, Intelligence Artificielle\n");
+    printf("Intérêts: Data, Intelligence Artificielle\n");
     return 0;
 }
 ```
