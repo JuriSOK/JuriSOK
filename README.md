@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("Nom: Arnaud\n");
-    printf("Étudiant en informatique à l'université Paris Dauphine-PSL\n");
-    printf("Diplôme en cours: Master MIAGE\n");
-    printf("Rôles: Étudiant\n");
-    printf("Intérêts: Data, Intelligence Artificielle\n");
+    printf("Name: Arnaud\n");
+    printf("Computer Science student at Paris Dauphine-PSL University\n");
+    printf("Current degree: Master's in MIAGE (CS applied to business management\n");
+    printf("Role: Data Analyst at Crédit Agricole Assurances\n");
+    printf("Interests: Data, Artificial Intelligence, Entrepreneurship, Hackathons\n");
     return 0;
 }
 ```
