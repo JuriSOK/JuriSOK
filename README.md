@@ -1,8 +1,5 @@
 # Hi, I'm Vibol Arnaud Sok!
 
-Data Analyst apprentice at Credit Agricole Assurances  
-Master's student in MIAGE, passionate about AI, data and digital products
-
 <p>
   <a href="https://jurisok.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-14100d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
@@ -16,10 +13,7 @@ Master's student in MIAGE, passionate about AI, data and digital products
 
 ```javascript
 const arnaud = {
-  code: ["Python", "Java", "TypeScript", "JavaScript", "SQL", "Bash"],
-  tools: ["Power BI", "Spring Boot", "Angular", "Git", "GitHub", "Docker"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB"],
-  interests: ["AI agents", "data analysis", "information systems", "digital transformation"],
+  interests: ["AI agents", "data analysis", "information systems", "digital transformation, hackatons"],
   currently: {
     role: "Data Analyst apprentice",
     company: "Credit Agricole Assurances",
