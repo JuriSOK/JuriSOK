@@ -1,31 +1,34 @@
-```c
-#include <stdio.h>
+# Hi, I'm Vibol Arnaud Sok!
 
-int main() {
-    printf("Name: Arnaud\n");
-    printf("Computer Science student at Paris Dauphine-PSL University\n");
-    printf("Current degree: Master's in MIAGE (CS applied to business management\n");
-    printf("Role: Data Analyst at Crédit Agricole Assurances\n");
-    printf("Interests: Data, Artificial Intelligence, Entrepreneurship, Hackathons\n");
-    return 0;
-}
+Data Analyst apprentice at Credit Agricole Assurances  
+Master's student in MIAGE, passionate about AI, data and digital products
+
+<p>
+  <a href="https://jurisok.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14100d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vibol-arnaud-sok-02a241284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+### A little more about me...
+
+```javascript
+const arnaud = {
+  code: ["Python", "Java", "TypeScript", "JavaScript", "SQL", "Bash"],
+  tools: ["Power BI", "Spring Boot", "Angular", "Git", "GitHub", "Docker"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB"],
+  interests: ["AI agents", "data analysis", "information systems", "digital transformation"],
+  currently: {
+    role: "Data Analyst apprentice",
+    company: "Credit Agricole Assurances",
+    studies: "Master's degree in MIAGE",
+  },
+  focus: "building useful digital products and turning data into practical decisions",
+};
 ```
 
-<br clear="both">
+I love exchanging ideas, joining ambitious projects, meeting new people and learning by building. If you want to talk about data, AI, hackathons or product ideas, feel free to reach out!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuriSOK/JuriSOK/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuriSOK/JuriSOK/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JuriSOK/JuriSOK/output/github-snake.svg" />
-</picture>
-
-
-###
-
-<div align="left">
-  <a href=https://www.linkedin.com/in/vibol-arnaud-sok-02a241284/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+---
